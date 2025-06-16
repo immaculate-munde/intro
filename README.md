@@ -53,9 +53,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immaculate-munde&show_icons=true&theme=gruvbox" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immaculate-munde&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immaculate-munde&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immaculate-munde&theme=tokyonight" />
+
 </p>
 
 ---
